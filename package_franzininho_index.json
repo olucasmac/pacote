@@ -44,7 +44,7 @@
             },
             {
               "host":"x86_64-linux-gnu",
-              "url":"https://github.com/olucasmac/pacote/blob/package_upgrade/tools_file/micronucleus-1.0.0-linux-x86_64.zip?raw=true",
+              "url":"https://github.com/olucasmac/pacote/blob/master/tools_file/micronucleus-1.0.0-linux-x86_64.zip?raw=true",
               "archiveFileName":"micronucleus-1.0.0-linux-x86_64.zip",
               "size":"22010"
             }
