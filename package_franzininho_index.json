@@ -14,7 +14,7 @@
           "version": "1.0.0",
           "category": "contributed",
           "help": {"online": "http://www.franzininho.com.br"},
-          "url": "https://github.com/olucasmac/pacote/blob/package_upgrade/franzininho-avr.zip?raw=true",
+          "url": "https://github.com/olucasmac/pacote/blob/master/franzininho-avr.zip?raw=true",
           "archiveFileName": "franzininho-avr.zip",
           "size": "1152085",
           "boards": [
